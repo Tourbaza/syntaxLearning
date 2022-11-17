@@ -1,0 +1,15 @@
+/Users/arturgizza/Projects/Odin/trying switch/bin/Debug/net6.0/trying switch
+/Users/arturgizza/Projects/Odin/trying switch/bin/Debug/net6.0/trying switch.deps.json
+/Users/arturgizza/Projects/Odin/trying switch/bin/Debug/net6.0/trying switch.runtimeconfig.json
+/Users/arturgizza/Projects/Odin/trying switch/bin/Debug/net6.0/trying switch.dll
+/Users/arturgizza/Projects/Odin/trying switch/bin/Debug/net6.0/ref/trying switch.dll
+/Users/arturgizza/Projects/Odin/trying switch/bin/Debug/net6.0/trying switch.pdb
+/Users/arturgizza/Projects/Odin/trying switch/obj/Debug/net6.0/trying switch.csproj.AssemblyReference.cache
+/Users/arturgizza/Projects/Odin/trying switch/obj/Debug/net6.0/trying switch.GeneratedMSBuildEditorConfig.editorconfig
+/Users/arturgizza/Projects/Odin/trying switch/obj/Debug/net6.0/trying switch.AssemblyInfoInputs.cache
+/Users/arturgizza/Projects/Odin/trying switch/obj/Debug/net6.0/trying switch.AssemblyInfo.cs
+/Users/arturgizza/Projects/Odin/trying switch/obj/Debug/net6.0/trying switch.csproj.CoreCompileInputs.cache
+/Users/arturgizza/Projects/Odin/trying switch/obj/Debug/net6.0/trying switch.dll
+/Users/arturgizza/Projects/Odin/trying switch/obj/Debug/net6.0/ref/trying switch.dll
+/Users/arturgizza/Projects/Odin/trying switch/obj/Debug/net6.0/trying switch.pdb
+/Users/arturgizza/Projects/Odin/trying switch/obj/Debug/net6.0/trying switch.genruntimeconfig.cache

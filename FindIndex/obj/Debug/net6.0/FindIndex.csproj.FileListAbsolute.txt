@@ -1,0 +1,15 @@
+/Users/arturgizza/Projects/Odin/FindIndex/bin/Debug/net6.0/FindIndex
+/Users/arturgizza/Projects/Odin/FindIndex/bin/Debug/net6.0/FindIndex.deps.json
+/Users/arturgizza/Projects/Odin/FindIndex/bin/Debug/net6.0/FindIndex.runtimeconfig.json
+/Users/arturgizza/Projects/Odin/FindIndex/bin/Debug/net6.0/FindIndex.dll
+/Users/arturgizza/Projects/Odin/FindIndex/bin/Debug/net6.0/ref/FindIndex.dll
+/Users/arturgizza/Projects/Odin/FindIndex/bin/Debug/net6.0/FindIndex.pdb
+/Users/arturgizza/Projects/Odin/FindIndex/obj/Debug/net6.0/FindIndex.csproj.AssemblyReference.cache
+/Users/arturgizza/Projects/Odin/FindIndex/obj/Debug/net6.0/FindIndex.GeneratedMSBuildEditorConfig.editorconfig
+/Users/arturgizza/Projects/Odin/FindIndex/obj/Debug/net6.0/FindIndex.AssemblyInfoInputs.cache
+/Users/arturgizza/Projects/Odin/FindIndex/obj/Debug/net6.0/FindIndex.AssemblyInfo.cs
+/Users/arturgizza/Projects/Odin/FindIndex/obj/Debug/net6.0/FindIndex.csproj.CoreCompileInputs.cache
+/Users/arturgizza/Projects/Odin/FindIndex/obj/Debug/net6.0/FindIndex.dll
+/Users/arturgizza/Projects/Odin/FindIndex/obj/Debug/net6.0/ref/FindIndex.dll
+/Users/arturgizza/Projects/Odin/FindIndex/obj/Debug/net6.0/FindIndex.pdb
+/Users/arturgizza/Projects/Odin/FindIndex/obj/Debug/net6.0/FindIndex.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+/Users/arturgizza/Projects/Odin/PrimeNumbers/bin/Debug/net6.0/PrimeNumbers
+/Users/arturgizza/Projects/Odin/PrimeNumbers/bin/Debug/net6.0/PrimeNumbers.deps.json
+/Users/arturgizza/Projects/Odin/PrimeNumbers/bin/Debug/net6.0/PrimeNumbers.runtimeconfig.json
+/Users/arturgizza/Projects/Odin/PrimeNumbers/bin/Debug/net6.0/PrimeNumbers.dll
+/Users/arturgizza/Projects/Odin/PrimeNumbers/bin/Debug/net6.0/ref/PrimeNumbers.dll
+/Users/arturgizza/Projects/Odin/PrimeNumbers/bin/Debug/net6.0/PrimeNumbers.pdb
+/Users/arturgizza/Projects/Odin/PrimeNumbers/obj/Debug/net6.0/PrimeNumbers.csproj.AssemblyReference.cache
+/Users/arturgizza/Projects/Odin/PrimeNumbers/obj/Debug/net6.0/PrimeNumbers.GeneratedMSBuildEditorConfig.editorconfig
+/Users/arturgizza/Projects/Odin/PrimeNumbers/obj/Debug/net6.0/PrimeNumbers.AssemblyInfoInputs.cache
+/Users/arturgizza/Projects/Odin/PrimeNumbers/obj/Debug/net6.0/PrimeNumbers.AssemblyInfo.cs
+/Users/arturgizza/Projects/Odin/PrimeNumbers/obj/Debug/net6.0/PrimeNumbers.csproj.CoreCompileInputs.cache
+/Users/arturgizza/Projects/Odin/PrimeNumbers/obj/Debug/net6.0/PrimeNumbers.dll
+/Users/arturgizza/Projects/Odin/PrimeNumbers/obj/Debug/net6.0/ref/PrimeNumbers.dll
+/Users/arturgizza/Projects/Odin/PrimeNumbers/obj/Debug/net6.0/PrimeNumbers.pdb
+/Users/arturgizza/Projects/Odin/PrimeNumbers/obj/Debug/net6.0/PrimeNumbers.genruntimeconfig.cache

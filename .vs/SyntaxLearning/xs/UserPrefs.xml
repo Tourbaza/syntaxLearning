@@ -1,0 +1,42 @@
+﻿<Properties StartupConfiguration="{1FADFBEE-D9EE-44F1-B6C1-CEBCCF77FB14}|Default">
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches>
+    <Watch file="../../../PrimeNumbers/Program.cs" line="6" column="9" endLine="6" endColumn="14" offsetX="-1" offsetY="-1" expression="i" liveUpdate="False" />
+  </MonoDevelop.Ide.DebuggingService.PinnedWatches>
+  <MonoDevelop.Ide.Workbench ActiveDocument="trying switch/Program.cs">
+    <Files>
+      <File FileName="trying switch/Program.cs" Line="20" Column="17" />
+      <File FileName="FindIndex/Program.cs" />
+      <File FileName="Calculator/Program.cs" />
+      <File FileName="PrimeNumbers/Program.cs" />
+      <File FileName="Odin/Program.cs" />
+      <File FileName="Dva/Program.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="SyntaxLearning" expanded="True" selected="True">
+            <Node name="Array" expanded="True" />
+            <Node name="Calculator" expanded="True" />
+            <Node name="Converter" expanded="True" />
+            <Node name="Eater" expanded="True" />
+            <Node name="FindIndex" expanded="True" />
+            <Node name="PrimeNumbers" expanded="True" />
+            <Node name="trying switch" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.FindIndex PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.trying_220switch PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.Converter PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Calculator PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.PrimeNumbers PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.Array PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.Eater PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

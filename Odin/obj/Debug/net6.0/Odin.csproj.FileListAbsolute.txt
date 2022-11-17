@@ -1,0 +1,15 @@
+/Users/arturgizza/Projects/Odin/Odin/bin/Debug/net6.0/Odin
+/Users/arturgizza/Projects/Odin/Odin/bin/Debug/net6.0/Odin.deps.json
+/Users/arturgizza/Projects/Odin/Odin/bin/Debug/net6.0/Odin.runtimeconfig.json
+/Users/arturgizza/Projects/Odin/Odin/bin/Debug/net6.0/Odin.dll
+/Users/arturgizza/Projects/Odin/Odin/bin/Debug/net6.0/ref/Odin.dll
+/Users/arturgizza/Projects/Odin/Odin/bin/Debug/net6.0/Odin.pdb
+/Users/arturgizza/Projects/Odin/Odin/obj/Debug/net6.0/Odin.csproj.AssemblyReference.cache
+/Users/arturgizza/Projects/Odin/Odin/obj/Debug/net6.0/Odin.GeneratedMSBuildEditorConfig.editorconfig
+/Users/arturgizza/Projects/Odin/Odin/obj/Debug/net6.0/Odin.AssemblyInfoInputs.cache
+/Users/arturgizza/Projects/Odin/Odin/obj/Debug/net6.0/Odin.AssemblyInfo.cs
+/Users/arturgizza/Projects/Odin/Odin/obj/Debug/net6.0/Odin.csproj.CoreCompileInputs.cache
+/Users/arturgizza/Projects/Odin/Odin/obj/Debug/net6.0/Odin.dll
+/Users/arturgizza/Projects/Odin/Odin/obj/Debug/net6.0/ref/Odin.dll
+/Users/arturgizza/Projects/Odin/Odin/obj/Debug/net6.0/Odin.pdb
+/Users/arturgizza/Projects/Odin/Odin/obj/Debug/net6.0/Odin.genruntimeconfig.cache
